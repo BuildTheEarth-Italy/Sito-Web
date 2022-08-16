@@ -1,5 +1,5 @@
 # BTE Italia Wordpress Theme
-Tema per il [sito ufficiale](https://bteitalia.it) del progetto _Build The Earth Italia_.
+Tema per il [sito ufficiale](https://bteitalia.tk) del progetto _Build The Earth Italia_.
 
 ![Preview brutta](https://github.com/BuildTheEarth-Italia/Wordpress-Theme/blob/master/screenshot.png)
 
